@@ -1,6 +1,6 @@
 # Ubuntu 18.04 LTS (Bionic) Ansible Test Image
 
-[![Build Status](https://travis-ci.org/synominit/docker-molecule-ubuntu1804.svg?branch=master)](https://travis-ci.org/synominit/docker-molecule-ubuntu1804) [![Docker Automated build](https://quay.io/docker/automated/synominit/docker-molecule-ubuntu1804.svg?maxAge=2592000)](https://hub.docker.com/r/synominit/docker-molecule-ubuntu1804/)
+[![Build Status](https://quay.io/repository/synominit/docker-molecule-ubuntu1804/status)](https://travis-ci.org/synominit/docker-molecule-ubuntu1804) [![Docker Automated build](https://quay.io/docker/automated/synominit/docker-molecule-ubuntu1804.svg?maxAge=2592000)](https://hub.docker.com/r/synominit/docker-molecule-ubuntu1804/)
 
 Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 
